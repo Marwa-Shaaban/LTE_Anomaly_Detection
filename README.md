@@ -32,6 +32,8 @@ User-friendly interface for data exploration, anomaly detection, visualization, 
 **Data Preprocessing & Cleaning:**
 Handling missing values, filtering outliers, normalizing KPIs.
 
+<img width="1879" height="676" alt="image" src="https://github.com/user-attachments/assets/7e190dfa-3f8e-4406-a4c1-36d0128ecaa8" />
+
 **Feature Engineering:**
 Extracting temporal, rolling, and trend-based features from raw KPIs.
 
