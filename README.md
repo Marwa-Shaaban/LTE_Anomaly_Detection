@@ -15,7 +15,7 @@ STL+Z-score, Prophet, Isolation Forest, LOF, LSTM/Bi-LSTM, Autoencoder, and ense
 
 **Feature Engineering:**
 Includes lagged features, rolling statistics, and temporal patterns for enhanced model accuracy.
-<img width="1824" height="905" alt="image" src="https://github.com/user-attachments/assets/79b68540-45d4-434f-b67f-4d6e94ba0121" />
+
 
 **Geo-Spatial Analysis:**
 Interactive map-based visualization of network sites, anomaly clusters, and KPI trends.
