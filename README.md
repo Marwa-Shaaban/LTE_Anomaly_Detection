@@ -69,6 +69,19 @@ Map and analyze anomalies by region, site, cell, and frequency band.
 Generate interpretive summaries and business insights.
 
 
+# 📊 Example Results
+**Precision/Recall & Evaluation:**
+
+
+
+Clustered Anomaly Map:
+
+LLM-Generated Summary Example:
+
+"Anomaly spike detected in Zone A, likely due to a configuration change. Recommend inspection of L07 sector..."
+
+
+
 # 👩‍💼 Business Impact
 Proactive network health monitoring
 
