@@ -37,7 +37,7 @@ Handling missing values, filtering outliers, normalizing KPIs.
 **Feature Engineering:**
 Extracting temporal, rolling, and trend-based features from raw KPIs.
 
-<img width="1335" height="496" alt="image" src="https://github.com/user-attachments/assets/2ccbd142-64e4-43f6-be73-724b82c7695d" />
+
 
 
 **Modeling & Detection:**
