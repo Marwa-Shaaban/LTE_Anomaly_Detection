@@ -72,6 +72,13 @@ Generate interpretive summaries and business insights.
 
 # 📊 Example Results
 **Precision/Recall & Evaluation:**
+![WhatsApp Image 2025-07-14 at 11 31 27 PM](https://github.com/user-attachments/assets/331d0b6b-fc55-4b37-b46f-c359bc5fc135)
+
+![WhatsApp Image 2025-07-14 at 11 32 07 PM](https://github.com/user-attachments/assets/c1e5a12f-8621-4f5c-af20-e188e49da0b9)
+
+![WhatsApp Image 2025-07-14 at 11 32 36 PM](https://github.com/user-attachments/assets/1f049660-714c-49c7-9d9d-714b64f4768a)
+
+![WhatsApp Image 2025-07-14 at 11 33 04 PM](https://github.com/user-attachments/assets/4fa27ff4-2e23-4424-b29b-76688ee63164)
 
 
 
