@@ -36,6 +36,8 @@ Handling missing values, filtering outliers, normalizing KPIs.
 
 **Feature Engineering:**
 Extracting temporal, rolling, and trend-based features from raw KPIs.
+<img width="1335" height="496" alt="image" src="https://github.com/user-attachments/assets/2ccbd142-64e4-43f6-be73-724b82c7695d" />
+
 
 **Modeling & Detection:**
 Training and evaluating multiple ML/DL/statistical models, including fusion methods for robust results.
@@ -50,27 +52,6 @@ Automated generation of business-oriented anomaly reports and technical recommen
 Streamlit-based dashboard for interactive use by network engineers and business users.
 
 <img width="679" height="707" alt="image" src="https://github.com/user-attachments/assets/32da356a-f30b-4620-89c6-918b81070e36" />
-
-# 🏗️ How It Works
-**Prepare Data:**
-
-Upload and clean LTE KPI datasets and metadata.
-
-**Feature Engineering:**
-
-Generate lagged, rolling, and trend features for each cell and KPI.
-
-**Anomaly Detection:**
-
-Apply and compare hybrid models (statistical, ML, DL, ensemble voting).
-
-**Geo-Spatial Visualization:**
-
-Map and analyze anomalies by region, site, cell, and frequency band.
-
-**LLM-Based Reporting:**
-
-Generate interpretive summaries and business insights.
 
 
 # 📊 Example Results
@@ -105,6 +86,9 @@ Reduced mean-time-to-repair (MTTR)
 Actionable insights for engineers and managers
 
 Adaptable to other telco environments or KPIs
+
+<img width="1335" height="496" alt="image" src="https://github.com/user-attachments/assets/dab6417f-f8df-437a-85cb-2622c2f04239" />
+
 
 # 👏 Acknowledgments
 **Supervisors:**
