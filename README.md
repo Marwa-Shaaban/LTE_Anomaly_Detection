@@ -1,4 +1,4 @@
-<img width="1783" height="617" alt="image" src="https://github.com/user-attachments/assets/25d4c43f-5041-4b94-aac8-3635af2211ad" /><img width="1783" height="617" alt="image" src="https://github.com/user-attachments/assets/03787e90-7803-4894-b571-54dcdaef108f" /># LTE 4G Network KPI Anomaly Detection
+# LTE 4G Network KPI Anomaly Detection
 To detect anomalies in LTE network performance across Gambia for a telecom operator by analyzing a year-long dataset of LTE KPIs. An LLM-based interface allows users to query specific sites and time ranges, triggering a trained anomaly detection model to identify abnormal behavior
 
 
@@ -14,8 +14,6 @@ STL+Z-score, Prophet, Isolation Forest, LOF, LSTM/Bi-LSTM, Autoencoder, and ense
 
 **Feature Engineering:**
 Includes lagged features, rolling statistics, and temporal patterns for enhanced model accuracy.
-
-
 
 **Geo-Spatial Analysis:**
 Interactive map-based visualization of network sites, anomaly clusters, and KPI trends.
