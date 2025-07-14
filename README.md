@@ -47,6 +47,7 @@ Automated generation of business-oriented anomaly reports and technical recommen
 **Web Application:**
 Streamlit-based dashboard for interactive use by network engineers and business users.
 
+<img width="679" height="707" alt="image" src="https://github.com/user-attachments/assets/32da356a-f30b-4620-89c6-918b81070e36" />
 
 # 🏗️ How It Works
 **Prepare Data:**
