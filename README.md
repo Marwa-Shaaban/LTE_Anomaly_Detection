@@ -6,7 +6,7 @@ To detect anomalies in LTE network performance across Gambia for a telecom opera
 # 🚀 Overview
 This project presents a comprehensive Anomaly Detection System for LTE 4G network KPIs, designed to identify abnormal network behaviors at the cell and site level. Leveraging advanced machine learning and time series analysis, our solution enables telecom operators to proactively detect, visualize, and interpret anomalies—leading to better network reliability and improved customer experience.
 
-
+<img width="1783" height="617" alt="image" src="https://github.com/user-attachments/assets/6977d4df-493f-4275-9a68-39d67aed7aef" />
 
 # 📈 Features
 Hybrid Anomaly Detection Models:
@@ -14,6 +14,7 @@ STL+Z-score, Prophet, Isolation Forest, LOF, LSTM/Bi-LSTM, Autoencoder, and ense
 
 **Feature Engineering:**
 Includes lagged features, rolling statistics, and temporal patterns for enhanced model accuracy.
+<img width="1824" height="905" alt="image" src="https://github.com/user-attachments/assets/79b68540-45d4-434f-b67f-4d6e94ba0121" />
 
 **Geo-Spatial Analysis:**
 Interactive map-based visualization of network sites, anomaly clusters, and KPI trends.
@@ -32,7 +33,6 @@ Handling missing values, filtering outliers, normalizing KPIs.
 
 **Feature Engineering:**
 Extracting temporal, rolling, and trend-based features from raw KPIs.
-<img width="1783" height="617" alt="image" src="https://github.com/user-attachments/assets/6977d4df-493f-4275-9a68-39d67aed7aef" />
 
 **Modeling & Detection:**
 Training and evaluating multiple ML/DL/statistical models, including fusion methods for robust results.
