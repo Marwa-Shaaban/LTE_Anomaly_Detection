@@ -1,6 +1,7 @@
 # LTE 4G Network KPI Anomaly Detection
 To detect anomalies in LTE network performance across Gambia for a telecom operator by analyzing a year-long dataset of LTE KPIs. An LLM-based interface allows users to query specific sites and time ranges, triggering a trained anomaly detection model to identify abnormal behavior
 
+![LLM_Geo_Title_Slide](https://github.com/user-attachments/assets/0dddd8ea-bfab-4790-b5d4-e1c73ca44368)
 
 
 # 🚀 Overview
