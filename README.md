@@ -71,7 +71,7 @@ Streamlit-based dashboard for interactive use by network engineers and business 
 
 
 
-Clustered Anomaly Map:
+**Clustered Anomaly Map:**
 
 LLM-Generated Summary Example:
 
